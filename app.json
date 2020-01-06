@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Alive & Free Omega Boys Club",
+    "icon": "./assets/100.png",
+    "version": "1.0.0",
+    "slug": "o-mega",
+    "sdkVersion": "33.0.0",
+    "ios": {
+      "bundleIdentifier": "org.stayaliveandfree.aliveandfree"
+    },
+    "android": {
+      "package": "org.stayaliveandfree.aliveandfree"
+    },
+    "orientation": "portrait",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "assets/*"
+    ],
+    "description": "An educational application (Android/iOS) for Alive & Free, Omega Boys Club."
+  }
+}
